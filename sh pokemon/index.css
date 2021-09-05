@@ -1,0 +1,63 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#container {
+    margin: auto;
+    
+    
+}
+
+#poke-container {
+    margin:0 auto;
+    max-width: 1200px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+#header-container {
+    border-radius: 0px !important;
+}
+
+#header-text{
+    margin: 0 auto;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    color: cornsilk;
+}
+
+
+   
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+  }
+
+ 
+#generate-pokemon {
+    margin: 0 auto;
+    
+}
+
+#delete-btn {
+    position: absolute;
+    left: 85%;
+    display: none;
+    margin-bottom: 5%;
+    
+}
+
+.ui card {
+    
+    height:400px;
+    border-radius: 45%;
+    background-color: rgb(238, 198, 185);
+}
+
+
